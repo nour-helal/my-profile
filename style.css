@@ -1,0 +1,19 @@
+body{
+background-color:lightblue;
+color: darkgreen;
+font-family: lora;	
+ }
+ h1	{
+ 	color: pink;
+ 	font-family: cursive;
+ 	font-size: 50px;
+
+ a{
+ 	text-decoration:green wavy underline;
+ 	color: cyan;
+}
+a:hover{
+	color: aqua;
+}
+
+ 
